@@ -1,0 +1,29 @@
+{
+  "name": "qlue",
+  "version": "0.10.0",
+  "author": "BigPanda <shahar@bigpanda.io>",
+  "description": "Repository of examples for using Q (https://github.com/kriskowal/q) - a promise driven async library for JavaScript",
+  "contributors": [
+    {
+      "name": "Shahar Kedar",
+      "email": "shahar@bigpanda.io"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bigpandaio/qlue.git"
+  },
+  "keywords": [
+    "q",
+    "promises",
+    "async",
+    "examples"
+  ],
+  "dependencies": {
+    "q": "~0.9.7"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=0.10"
+  }
+}
