@@ -20,7 +20,9 @@
     "examples"
   ],
   "dependencies": {
-    "q": "~0.9.7"
+    "q": "~0.9.7",
+    "mocha": "~1.13.0",
+    "chai": "~1.8.1"
   },
   "license": "MIT",
   "engines": {
